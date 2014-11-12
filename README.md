@@ -1,4 +1,4 @@
 Ridemongo
 =========
 
-Ridemongo is A platform cross  desktop application  that gives you a GUI interface to work with MongoDB.
+Ridemongo is a cross platform desktop application that provides you with a GUI to interact with MongoDB.
